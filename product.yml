@@ -12,4 +12,4 @@ spring:
     #为服务命名
     name: product
 server:
-  port: 8081
+  port: 8080
